@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-loopia:
+  - apiVersion: v2
+    created: "2025-03-17T18:56:07.782716203+01:00"
+    description: A Helm chart for installing cert-manager-webhook-loopia in Kubernetes
+    digest: 813d4f9451e7aba883cf437687522d0b84ab535aba0895e3ce2b643565f9e97b
+    maintainers:
+    - name: Gustav Elmgren
+      url: https://github.com/gel-hidden/cert-manager-webhook-loopia
+    name: cert-manager-webhook-loopia
+    urls:
+    - cert-manager-webhook-loopia-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-03-17T18:56:07.782460925+01:00"
