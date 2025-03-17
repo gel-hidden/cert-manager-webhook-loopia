@@ -123,9 +123,9 @@ Note that it might take a minute or two before all pods are running.
 The `cert-manager-webhook-loopia` can be installed in multiple ways but the easiest is using helm:
 
 ```shell
-helm repo add identitry https://identitry.github.io/cert-manager-webhook-loopia
+helm repo add gel-hidden https://gel-hidden.github.io/cert-manager-webhook-loopia
 helm repo update
-helm install cert-manager-webhook-loopia identitry/cert-manager-webhook-loopia --namespace cert-manager
+helm install cert-manager-webhook-loopia gel-hidden/cert-manager-webhook-loopia --namespace cert-manager
 ```
 
 This will install a helm chart with the pre built image available in Docker Hub as identitry/cert-manager-webhook-loopia.
