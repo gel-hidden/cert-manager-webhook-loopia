@@ -1,7 +1,7 @@
 apiVersion: v2
 description: A Helm chart for installing cert-manager-webhook-loopia in Kubernetes
 name: cert-manager-webhook-loopia
-version: 1.1
+version: 1.0.0
 maintainers:
-  - name: Henrik Nilsson, Identitry
-    url: https://github.com/Identitry/cert-manager-webhook-loopia
+  - name: Gustav Elmgren
+    url: https://github.com/gel-hidden/cert-manager-webhook-loopia
